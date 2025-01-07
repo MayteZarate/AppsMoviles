@@ -1,0 +1,5 @@
+name: widgets_theme
+description: Práctica que genera las carpetas widgets y theme de la aplicación del diseño de un login en dart
+version: 0.1.0+1
+environment:
+  mason: ^0.1.0
