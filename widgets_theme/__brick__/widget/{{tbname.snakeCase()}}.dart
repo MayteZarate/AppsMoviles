@@ -2,12 +2,12 @@ import 'package:flutter/material.dart';
 
 import '../theme/app_theme.dart';
 
-class {{fbname.pascalCase()}} extends StatelessWidget {
+class {{tbname.pascalCase()}} extends StatelessWidget {
   final VoidCallback? onPressed;
   final Widget child;
   final bool transparent;
 
-  const {{fbname.pascalCase()}}({
+  const {{tbname.pascalCase()}}({
     super.key,
     required this.onPressed,
     required this.child,
